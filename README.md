@@ -1,6 +1,6 @@
 ﻿# Calculadora-de-IMC
 
-Esta aplicação é uma calculadora de Índice de Massa Corporal(IMC) implementada com HTML, CSS e JavaScript.
+Calculadora de Índice de Massa Corporal(IMC) implementada com HTML, CSS e JavaScript.
 
 ### Resultado final
 
